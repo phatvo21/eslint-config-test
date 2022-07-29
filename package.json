@@ -1,6 +1,6 @@
 {
   "name": "@phatvo21/eslint-config-test",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Typescript eslint config for backend",
   "main": "index.js",
   "repository": {
