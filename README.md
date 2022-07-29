@@ -1,11 +1,11 @@
 # Eslint typescript config backend
 
 # Install
-```npm i -D eslint-config-rolo-backend-ts eslint```
+```npm i -D @phatvo21/eslint-config-test```
 
 Add it as a config in ```.eslintrc```
 ```
 {
-  "extends": ["eslint-config-test"]
+  "extends": ["@phatvo21/eslint-config-test"]
 }
 ```
