@@ -1,5 +1,5 @@
 {
-  "name": "@phat/eslint-config-test",
+  "name": "@phatvo21/eslint-config-test",
   "version": "1.0.0",
   "description": "Typescript eslint config for backend",
   "main": "index.js",
